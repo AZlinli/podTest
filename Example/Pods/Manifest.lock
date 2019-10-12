@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - LATAlert (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - LATAlert (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  LATAlert:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  LATAlert: 503c2408cbda58a990f4c7d40ce43ebec207b865
+
+PODFILE CHECKSUM: 62facd88780d4c9b08ba63db63faf263218d2c89
+
+COCOAPODS: 1.7.0.beta.3

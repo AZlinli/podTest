@@ -7,6 +7,7 @@
 //
 
 #import "LATViewController.h"
+#import "NSObject+XKController.h"
 
 @interface LATViewController ()
 
