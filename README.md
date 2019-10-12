@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LATAlert
 
 [![CI Status](https://img.shields.io/travis/Lin Li/LATAlert.svg?style=flat)](https://travis-ci.org/Lin Li/LATAlert)
